@@ -95,6 +95,20 @@ The model is evaluated under varying conditions:
 
 ---
 
+### 🧩 Citation
+
+@article{matanga2026optimal,
+  title={Optimal Traffic Relief Road Design Using Bilevel Programming and Greedy--Seeded Simulated Annealing: A Case Study of Kinshasa},
+  author={Matanga, Yves and Tu, Chunling and Wyk, Etienne van},
+  journal={Future Transportation},
+  volume={6},
+  number={2},
+  pages={66},
+  year={2026},
+  publisher={MDPI}
+}
+
+
 ## 🛠️ Technologies
 
 - Python  
@@ -111,3 +125,4 @@ The model is evaluated under varying conditions:
 ```bash
 git clone https://github.com/yourusername/TNDP-bilevel.git
 cd TNDP-bilevel
+
